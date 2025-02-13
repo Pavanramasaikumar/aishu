@@ -33,7 +33,7 @@ body,html{
     width: 600px;
     height: 100%;
     background-color: white;
-    background-image: url("/sources/images/india6.jpg");
+    background-image: url("india6.jpg");
     background-position: center; 
     background-size: cover; 
     background-repeat: no-repeat;
